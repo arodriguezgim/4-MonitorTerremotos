@@ -5,6 +5,7 @@ public class Terremoto {
     private String magnitud;
     private String lugar;
 
+    // Parte B: 2 - Creamos un constructor y los getters
     public Terremoto(String magnitud, String lugar) {
         this.magnitud = magnitud;
         this.lugar = lugar;
